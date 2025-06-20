@@ -12,7 +12,9 @@ public class Trainer extends Person {
 	}
 	public Trainer(int id,String name,String city,String designation,String location)
 	{
-		super();//calling base class parameterized
+		super(
+				
+				);//calling base class parameterized
 		this.designation=designation;
 		this.location=location;
 	}
